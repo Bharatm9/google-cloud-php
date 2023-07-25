@@ -38,3 +38,5 @@
   <exclude-pattern>Translate/src/Connection/*</exclude-pattern>
   <arg name="extensions" value="php"/>
 </ruleset>
+
+
